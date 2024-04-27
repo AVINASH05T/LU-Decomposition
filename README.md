@@ -1,5 +1,7 @@
 # LU Decomposition 
-
+## NAME: AVINASH T
+## DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENECE
+## REG NO: 212223230026
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
